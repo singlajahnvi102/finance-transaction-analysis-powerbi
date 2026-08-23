@@ -224,3 +224,26 @@ The project was developed by following an existing YouTube tutorial for educatio
 ## 👩‍💻 About This Project
 
 This project is part of my ongoing learning journey in **Data Analytics and Business Intelligence**, with a focus on developing practical skills in Power BI, SQL, data visualization, and business-oriented analysis.
+
+## 💡 Key Business Insights
+
+Based on the 2025 Finance Analysis Dashboard:
+
+* **Overall Performance:** The dashboard recorded **₹137.53M** in total transaction amount across approximately **14.94K transactions**, with an average transaction value of **₹9.20K**.
+
+* **YoY Performance:** Total transaction amount increased by **1.41% YoY**, while transaction volume decreased slightly by **0.57%**. At the same time, average transaction value increased by **1.98%**, indicating higher average value per transaction.
+
+* **Transaction Status:** **Successful transactions accounted for approximately 85.37% (₹117.4M)** of the total transaction amount, while failed and pending transactions represented approximately **10.44% (₹14.4M)** and **4.19% (₹5.8M)**, respectively.
+
+* **Customer Segments:** The **Retail segment** generated the highest transaction amount at approximately **₹76M**, followed by Premium (**₹26M**) and SME (**₹21M**) customers.
+
+* **Regional Performance:** **Maharashtra** recorded the highest transaction amount among the states displayed, at approximately **₹22M**, followed by Karnataka (**₹16M**) and Gujarat (**₹15M**).
+
+* **Transaction Types:** **Loan EMI** generated the highest transaction amount at approximately **₹40.0M**, followed by **Transfer** at approximately **₹36.2M**. Deposit and Investment contributed approximately **₹20.3M** and **₹15.1M**, respectively.
+
+* **Gender Analysis:** Male customers contributed approximately **₹72.6M (52.77%)**, while female customers contributed approximately **₹65.0M (47.23%)**, showing a relatively balanced distribution with a slightly higher contribution from male customers.
+
+* **Monthly Trend:** Transaction amounts fluctuated throughout 2025, with relatively higher values visible around **January, June–July, and December**, while **September** recorded the lowest monthly transaction amount among the displayed months.
+
+* **Fees & Tax:** The dashboard recorded **₹216.94K in total fees** and **₹39.04K in total tax**, providing visibility into additional financial components associated with transactions.
+
